@@ -1,2 +1,2 @@
 # adobe ilustrator
- criando artes
+ criando artes e layouts
